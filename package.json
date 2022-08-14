@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "amrutsabale",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon app2"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
